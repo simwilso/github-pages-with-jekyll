@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to simwilso
 
-I'm glad you are here. I plan to talk about ...
+whats up this is *my* blog site
